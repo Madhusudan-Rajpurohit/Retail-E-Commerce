@@ -20,7 +20,7 @@
 **Tools Used:**
 Python • Pandas • NumPy • Matplotlib • Jupyter Notebook
 
-**[View Analysis →](customer-segmentation-rfm-analysis.ipynb.ipynb)**
+**[View Analysis →](customer-segmentation-rfm-analysis.ipynb)**
 
 ---
 *More projects coming soon...*
